@@ -1,18 +1,53 @@
-  
-  <h1  align="center">
-      
-  Hello
+<h1 align="center">
+  Hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <br>
-<!--   <img src="https://komarev.com/ghpvc/?username=huynhpx736&style=flat-square&color=blue" alt=""/> -->
-
-</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-
-   
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<h3 align="center">I'm Phan Xuan Huynh — a passionate Web Developer from Vietnam 🇻🇳</h3>
+
+<p align="center">
+  <a href="mailto:xuanhuynhmc@gmail.com">📧 Email</a> •
+  <a href="https://github.com/huynhpx736">💻 GitHub</a> •
+</p>
+
+---
+
+### 🚀 About Me
+
+- 👨‍💻 I'm a final-year student at **Posts and Telecommunications Institute of Technology (PTIT)**.
+- 💼 Seeking an internship or junior role in **Web Development**, especially **Full-stack** or **Backend**.
+- 🧠 Always eager to learn and apply new technologies (Microservices, Docker, AI in Web, etc.).
+- 🌱 Currently improving my skills in **system design**, **distributed systems**, and **DevOps fundamentals**.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages**: Java, Python, C++, C#, JavaScript, HTML, CSS  
+- **Frameworks**: Spring Boot, Spring MVC, ReactJS, Bootstrap  
+- **Databases**: MySQL, SQL Server  
+- **Tools**: Git, GitHub, Postman, Docker, Figma  
+- **Other**: RESTful APIs, MVC, Microservices, OOP, CNN (AI), FreeRTOS, Android  
+
+---
+
+
+### 🏅 Certificate
+
+- 🗣 **TOEIC**: 735 (Listening + Reading) – May 2025
+
+---
+
+
+
+### ✨ Let's Connect!
+
+Feel free to reach out for collaboration, internships, or simply to connect!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</p>
