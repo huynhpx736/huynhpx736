@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h3 align="center">I'm Phan Xuan Huynh — a passionate Web Developer from Vietnam 🇻🇳</h3>
+<h3 align="center">I'm Phan Xuan Huynh — a passionate Web Developer from Vietnam</h3>
 
 <p align="center">
   <a href="mailto:xuanhuynhmc@gmail.com">📧 Email</a> •
