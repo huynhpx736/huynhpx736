@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I'm a final-year student at **Posts and Telecommunications Institute of Technology (PTIT)**.
+- 👨‍💻 Graduated from **Posts and Telecommunications Institute of Technology (PTIT)**.
 - 💼 Seeking an internship or junior role in **Web Development**, especially **Full-stack** or **Backend**.
 - 🧠 Always eager to learn and apply new technologies (Microservices, Docker, AI in Web, etc.).
 - 🌱 Currently improving my skills in **system design**, **distributed systems**, and **DevOps fundamentals**.
