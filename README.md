@@ -12,6 +12,7 @@
 <p align="center">
   <a href="mailto:xuanhuynhmc@gmail.com">📧 Email</a> •
   <a href="https://github.com/huynhpx736">💻 GitHub</a> •
+  <a href="https://www.youtube.com/@huynhphanxuan5276">▶️ Youtube</a> •
 </p>
 
 ---
@@ -40,8 +41,8 @@
 - 🗣 **TOEIC**
 - ......
 ---
-
-
+### Other
+-**Leetcode** :
 
 ### ✨ Let's Connect!
 
