@@ -19,31 +19,10 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 Graduated from **Posts and Telecommunications Institute of Technology (PTIT)**.
-- 🧠 Always eager to learn and apply new technologies (Microservices, Docker, AI in Web, etc.).
-- 🌱 Currently improving my skills in **system design**, **distributed systems**, and **DevOps fundamentals**.
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages**: Java, Python, C++, C#, JavaScript, HTML, CSS  
-- **Frameworks**: Spring Boot, Spring MVC, ReactJS, Bootstrap  
-- **Databases**: MySQL, SQL Server  
-- **Tools**: Git, GitHub, Postman, Docker, Figma  
-- **Other**: RESTful APIs, MVC, Microservices, OOP, CNN (AI), FreeRTOS, Android  
-
----
-
-
-### 🏅 Certificate
-
-- 🗣 **TOEIC**
-- ......
----
-### Other
--**Leetcode** :
-
+-  Graduated from **Posts and Telecommunications Institute of Technology (PTIT)**.
+-  Always eager to learn and apply new technologies
+-  Currently improving my skills
+  
 ### ✨ Let's Connect!
 
 Feel free to reach out for collaboration, internships, or simply to connect!
